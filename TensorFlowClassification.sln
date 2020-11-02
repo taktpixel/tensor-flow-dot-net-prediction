@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TensorFlowClassification", "src\TensorFlowClassification\TensorFlowClassification.csproj", "{3AC62662-7861-4C21-A402-82864F2A8AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug-Minimal|Any CPU = Debug-Minimal|Any CPU
+		Debug-Minimal|x64 = Debug-Minimal|x64
+		Publish|Any CPU = Publish|Any CPU
+		Publish|x64 = Publish|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug-Minimal|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug-Minimal|Any CPU.Build.0 = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug-Minimal|x64.ActiveCfg = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Debug-Minimal|x64.Build.0 = Debug|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Publish|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Publish|Any CPU.Build.0 = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Publish|x64.ActiveCfg = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Publish|x64.Build.0 = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3AC62662-7861-4C21-A402-82864F2A8AF7}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8E6989-2703-4DE2-A0B8-C884B75EFA9F}
+	EndGlobalSection
+EndGlobal
