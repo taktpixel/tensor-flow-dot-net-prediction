@@ -1,4 +1,4 @@
-# POODL model prediction sample
+# TensorFlow.NET model prediction sample
 
 Need to install .NET Core 3.1
 https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral
